@@ -15,5 +15,5 @@ Download Rhythm [here](https://drive.google.com/open?id=1ENbxJAOg3ZKzm7mJuyQzVk5
 ## Contact Me
 If you wish to contact me please email me at ben.o.russell@gmail.com
 
-Alternatively, please visit my LinkedIn [here](www.linkedin.com/in/benrprogramming)
+Alternatively, please visit my LinkedIn [here](https://www.linkedin.com/in/benrprogramming/)
 
