@@ -7,7 +7,7 @@ Rhythm is a side-scrolling survival game where the player must try and work thei
 
 Will you feel the Rhythm or fall out of the Flow?
 
-Rhythm was created as a group project during my College course, I worked as the Lead Programmer and utilised C# and the Unity engine to build Rhythm.
+Rhythm was created as a group project during my College course, I worked as the Lead Programmer; utilised C# and the Unity engine to build Rhythm.
 
 LINK TO RHYTHM HERE
 
